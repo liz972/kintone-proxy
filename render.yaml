@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: kintone-proxy
-    env: php
-    buildCommand: ""
-    startCommand: ""
-    plan: free
